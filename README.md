@@ -1,7 +1,7 @@
 <img width="1161" height="732" alt="image" src="https://github.com/user-attachments/assets/cafc0573-9d93-4ae3-8dc8-923ea48437c8" />
 
 
-🧊 Cube Lab 3D
+🧊 Cube Lab 3D - Desenvolvido por Isaac Alves e Murilo Sampaio
 
 Site do Projeto Integrador — 1º Semestre • Sistemas para Internet
 
