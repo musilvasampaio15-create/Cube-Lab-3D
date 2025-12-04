@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="1377" height="738" alt="image" src="https://github.com/user-attachments/assets/d67dcdcf-c0d2-4244-ada7-fd14d54e5cd7" />
 
 
 # Cube Lab 3D  
